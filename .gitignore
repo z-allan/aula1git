@@ -1,0 +1,5 @@
+build/
+log/
+libraries/
+extensao.log
+service.config
